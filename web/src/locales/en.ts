@@ -61,6 +61,7 @@ export default {
         tokenPlaceholder: 'e.g. eyJhbGciOiJIUzI1Ni...',
       },
       selected: 'Selected',
+      reset: 'Reset',
     },
     login: {
       loginTitle: 'Sign in to your account',

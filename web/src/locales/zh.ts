@@ -53,6 +53,7 @@ export default {
       noData: '暂无数据',
       promptPlaceholder: '请输入或使用 / 快速插入变量。',
       selected: '已选择',
+      reset: '重置',
     },
     login: {
       loginTitle: '登录账户',

@@ -31,6 +31,11 @@ module.exports = {
         0.5: '0.5px',
       },
       colors: {
+        gemini: {
+          bg: '#FFFFFF',
+          surface: '#F0F4F9', // 输入框和侧边栏背景
+          text: '#1F1F1F',
+        },
         border: 'var(--border-default)',
         input: 'hsl(var(--input))',
         ring: 'hsl(var(--ring))',
